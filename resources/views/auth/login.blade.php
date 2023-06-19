@@ -64,7 +64,7 @@
 	<div class="alert alert-warning d-flex align-items-center" role="alert">
   	<svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Info:"><use xlink:href="#info-fill"/></svg>
   	<div>
-  	Para registrarte en la plataforma es necesario ponerte en contacto con <b>carlos.millan@utvtol.edu.mx</b>
+  	Para registrarte en la plataforma es necesario ponerte en contacto con <b>felipe.garcía@utvtol.edu.mx</b>
   	</div>
 	</div>
 	<br>

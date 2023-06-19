@@ -46,7 +46,7 @@
               <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
             </li>
           </ul>
-          <h3 class="text-light">Direcci&oacute;n de la Carrera Mecatr&oacute;nica y Sistemas Productivos
+          <h3 class="text-light">Direcci&oacute;n de la Carrera Mecatr&oacute;nica y Sistemas Productivos -Academia: Procesos Industriales Y Sistemas Productivos
           &nbsp;|&nbsp;
 
                 @if (Auth()->user()->idtu_tipos_usuarios == 1)
